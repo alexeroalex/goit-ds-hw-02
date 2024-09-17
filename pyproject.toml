@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "goit-ds-hw-02"
+version = "0.1.0"
+description = ""
+authors = ["Oleksii <alex29.06.05@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+faker = "^28.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
